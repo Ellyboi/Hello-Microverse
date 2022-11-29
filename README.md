@@ -1,18 +1,47 @@
-# Hello microverse project
+📗 Table of Contents
+📖 About the Project
+🛠 Built With
+Tech Stack
+Key Features
+🚀 Live Demo
+💻 Getting Started
+Setup
+Prerequisites
+Install
+Usage
+Run tests
+Deployment
+👥 Authors
+🔭 Future Features
+🤝 Contributing
+⭐️ Show your support
+🙏 Acknowledgements
+❓ FAQ
+📝 License
+
+
+📖 [Hello Microverse]
 This is to set up "Hellow Microverse Project"
 
-Hello microverse project is a set up project to make sure we understand how to set up linters without errors, make sure that we use correct (GitHub flow) and make sure that we document our work properly.
+[Hello Microverse Project] is a set up project, to make sure we understand how to set up linters without errors, make sure that we use correct (GitHub flow) and make sure that we document our work properly.
 
+🛠 Built With
+Tech Stack
+- Major languages: html & css
 
-# Key Features:
- linters Installation.
- GitHub flow.
- Proper documentation
+Client
+Server
+Database
+Key Features
+- linters Installation.
+- GitHub flow.
+- Proper documentation
 
-## Link
+# Link
 https://github.com/Ellyboi/hello-microverse
 
-
+💻 Getting Started
+Describe how a new developer could make use of your project.
 💻 Getting Started
 To get a local copy up and running, follow these steps.
 
@@ -29,11 +58,6 @@ Vscode
 
 Deployment: github
 
-# Built With
-
-- Major languages: html & css
-
-
 Prerequisites: Nil
 Setup: direct to the system
 
@@ -48,38 +72,21 @@ Twitter: @elijahvitoesi
 LinkedIn: elijah vitoesi
 
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the issues page.
-
-(back to top)
-
-⭐️ Show your support
-Write a message to encourage readers to support your project
-
-If you like this project...
-
-(back to top)
-
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
-I would like to thank Microverse for the previledge granted
-
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and fature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
 
+🙏- Thank you Microverse for the chance to learn through others
+- Bravo to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
