@@ -1,31 +1,70 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Hello Microverse
-
 # Hello microverse project
+This is to set up "Hellow Microverse Project"
 
-## Built With
+Hello microverse project is a set up project to make sure we understand how to set up linters without errors, make sure that we use correct (GitHub flow) and make sure that we document our work properly.
+
+
+Key Features:
+Make sure that there are no linter errors.
+Make sure that you used correct (GitHub flow).
+Make sure that you documented your work.
+
+## Link
+https://github.com/Ellyboi/hello-microverse
+
+
+💻 Getting Started
+To get a local copy up and running, follow these steps.
+
+Prerequisites
+In order to run this project you need:
+Install github properly
+
+Setup
+Clone this repository to your desired folder:
+
+Install
+Install this project with:
+Vscode
+
+Deployment: github
+
+# Built With
 
 - Major languages: html & css
 
 
-### Prerequisites: Nil
-
-### Setup: direct to the system
-
-
-### Deployment: github
+Prerequisites: Nil
+Setup: direct to the system
 
 
+👤 Author
+👤 **VITOESI ELIJAH**
 
-## Authors
+- GitHub:(https://github.com/Ellyboi)
 
-👤 **Author1:VITOESI ELIJAH
+GitHub: @Ellyboi
+Twitter: @elijahvitoesi
+LinkedIn: elijah vitoesi
 
-- GitHub:[githubhandle](https://github.com/Ellyboi))
 
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
+Feel free to check the issues page.
 
+(back to top)
+
+⭐️ Show your support
+Write a message to encourage readers to support your project
+
+If you like this project...
+
+(back to top)
+
+🙏 Acknowledgments
+Give credit to everyone who inspired your codebase.
+I would like to thank Microverse for the previledge granted
 
 
 ## 🤝 Contributing
