@@ -1,23 +1,23 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ
-📝 License
+- 📗 Table of Contents
+- 📖 About the Project
+- 🛠 Built With
+- Tech Stack
+- Key Features
+- 🚀 Live Demo
+- 💻 Getting Started
+- Setup
+- Prerequisites
+- Install
+- Usage
+- Run tests
+- Deployment
+- 👥 Authors
+- 🔭 Future Features
+- 🤝 Contributing
+- ⭐️ Show your support
+- 🙏 Acknowledgements
+- ❓ FAQ
+- 📝 License
 
 
 📖 [Hello Microverse]
@@ -29,9 +29,6 @@ This is to set up "Hellow Microverse Project"
 Tech Stack
 - Major languages: html & css
 
-Client
-Server
-Database
 Key Features
 - linters Installation.
 - GitHub flow.
@@ -54,7 +51,7 @@ Clone this repository to your desired folder:
 
 Install
 Install this project with:
-Vscode
+- Vscode
 
 Deployment: github
 
@@ -67,9 +64,9 @@ Setup: direct to the system
 
 - GitHub:(https://github.com/Ellyboi)
 
-GitHub: @Ellyboi
-Twitter: @elijahvitoesi
-LinkedIn: elijah vitoesi
+- GitHub: @Ellyboi
+- Twitter: @elijahvitoesi
+- LinkedIn: elijah vitoesi
 
 
 
