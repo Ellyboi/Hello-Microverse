@@ -38,16 +38,14 @@ Key Features
 https://github.com/Ellyboi/hello-microverse
 
 💻 Getting Started
-Describe how a new developer could make use of your project.
-💻 Getting Started
 To get a local copy up and running, follow these steps.
 
 Prerequisites
 In order to run this project you need:
-Install github properly
+- Install github properly
 
 Setup
-Clone this repository to your desired folder:
+- Clone this repository to your desired folder:
 
 Install
 Install this project with:
