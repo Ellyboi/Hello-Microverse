@@ -4,10 +4,10 @@ This is to set up "Hellow Microverse Project"
 Hello microverse project is a set up project to make sure we understand how to set up linters without errors, make sure that we use correct (GitHub flow) and make sure that we document our work properly.
 
 
-Key Features:
-Make sure that there are no linter errors.
-Make sure that you used correct (GitHub flow).
-Make sure that you documented your work.
+# Key Features:
+ linters Installation.
+ GitHub flow.
+ Proper documentation
 
 ## Link
 https://github.com/Ellyboi/hello-microverse
